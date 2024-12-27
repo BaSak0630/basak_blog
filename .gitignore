@@ -37,4 +37,5 @@ out/
 .vscode/
 
 ### yml ###
-!**/src/main/java/resources/application.yml
+!**/src/main/java/resources/application.ym
+application.yml
